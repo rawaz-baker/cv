@@ -1,0 +1,46 @@
+form{background-color:  #0ba58bc0;
+width: 30%;
+height: 500px;
+padding: 5px;
+border-radius: 15px;
+margin: auto;
+}
+form input 
+{border-radius: 7px;
+    background-color: tomato;
+}
+form select{border-radius: 7px;
+    background-color: tomato;
+
+}
+.r{width: 70%;}
+
+img{border-radius: 25px;}
+.box
+{text-align: center;
+}
+form button{border-radius: 15px;
+margin: 10px 0px 0px 100px;
+background-color: black;
+color: whitesmoke;
+border:2px solid black;
+font-size: large;
+
+
+}
+body{background-color: azure;}
+ a button{
+    border-radius: 15px;
+        
+        background-color: black;
+        color: whitesmoke;
+        border:2px solid black;
+        font-size: large;
+        position: absolute;
+        right:550px ;
+        top: 495px;
+      
+
+}
+h1{text-align: center;}
+
